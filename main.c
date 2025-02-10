@@ -2,7 +2,7 @@
 
 // comment
 int main() {
-    //ped
+    //ped;
     printf("Denis_pedik\n");
     return 0;
 }
