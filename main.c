@@ -3,6 +3,6 @@
 // comment
 int main() {
     //ped;
-    printf("Denis_pedik\n");
+    printf("Denis\n");
     return 0;
 }
