@@ -1,0 +1,3 @@
+/Users/nikitaaverkiev/CLionProjects/BaZa/cmake-build-debug/CMakeFiles/BaZa.dir
+/Users/nikitaaverkiev/CLionProjects/BaZa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitaaverkiev/CLionProjects/BaZa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
